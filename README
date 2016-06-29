@@ -1,0 +1,10 @@
+Simple telegram bot to tell you the closest CTA train station and return you the next arrival times. Simply send your location and see when the train is coming.
+
+Add API keys for the CTA and Telegram APIs in config.yml
+
+
+~ TODO
+  * Import CSV data/station objects
+  * Implement bus tracking
+  * Use custom keyboard and commands to give more options
+  * Track user preferences with mongo
